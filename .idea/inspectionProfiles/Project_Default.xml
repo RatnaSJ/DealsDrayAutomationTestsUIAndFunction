@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tuple.select_by_visible_text" />
+          <option value="TestCases.test_login.Utilities2" />
+          <option value="TestCases.test_login.conftest" />
+          <option value="Utilities.LoginPageUtilities.LoginPageUtilities.click_continue_button" />
+          <option value="panda.read_excel" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
